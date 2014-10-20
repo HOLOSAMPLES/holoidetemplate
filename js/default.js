@@ -1,2 +1,1 @@
-//FileStart:default.js 
-console.log("project template!");//FileEnd
+console.log("project template!");
